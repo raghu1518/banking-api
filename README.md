@@ -316,7 +316,7 @@ graph TD
 ## Credits and License
 
 - **Developed By**: Raghavendra Chowdary
-- **License**: Add your preferred license in a `LICENSE` file (MIT/Apache-2.0 commonly used).
+- **License**: MIT.
 - Contributions are welcome through pull requests and issues.
 
 ---
